@@ -2,7 +2,7 @@
   <br>
   <img width="40%" src="https://i.loli.net/2018/06/19/5b290aa0885f1.png">
   <br>
-  GSC Wallet for iOS
+  GSC Wallet for Android
   <br>
 </h1>
 
@@ -57,7 +57,7 @@ Participate on token distributions
 ## Contributing
 
 We intend for this project to be an educational resource: we are excited to
-share our wins, mistakes, and methodology of iOS development as we work
+share our wins, mistakes, and methodology of development as we work
 in the open. Our primary focus is to continue improving the app for our users in
 line with our roadmap.
 
