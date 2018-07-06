@@ -53,7 +53,7 @@ Participate on token distributions
 
 ## Getting Started
 ### TODO
-Login 
+Create wllt with mnemonic
 
 ## Contributing
 
