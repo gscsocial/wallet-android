@@ -55,6 +55,9 @@ Participate on token distributions
 ### TODO
 Create wllt with mnemonic
 
+## Screen Shot
+![image](https://github.com/pegtop/wallet-android/blob/master/screenshoots/home.png)
+
 ## Contributing
 
 We intend for this project to be an educational resource: we are excited to
