@@ -51,12 +51,15 @@ Offline signing mechanism with QR code scanning
 
 Participate on token distributions
 
+
 ## Getting Started
 ### TODO
 Create wllt with mnemonic
 
+
 ## Screen Shot
 ![image](https://github.com/pegtop/wallet-android/blob/master/screenshoots/home.png)
+
 
 ## Contributing
 
